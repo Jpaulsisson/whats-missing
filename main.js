@@ -117,6 +117,9 @@ console.log(findIt(testArr, 2));
 console.log(findIt(test2, 4));
 console.log(findIt(perfect, 2));
 
-////solved//////////
-/////This was a freaking doosey//////
+////////////////////////solved///////////////////////////////////
+/////////////////////////This was a freaking doosey//////////////
 /////It looked easy from the jump but it definitely was not//////
+///////I left all my failed attempts to create this//////////////
+/////algorithm without the use of Set() because maybe////////////
+//////////////there's something decent in that trash pile////////
